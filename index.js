@@ -1,3 +1,4 @@
-function favoriteIceCream(flavor) {
+function favoriteIceCream(flavor) { 
+  flavor = "mint chocolate chip"
   debugger;
 }
